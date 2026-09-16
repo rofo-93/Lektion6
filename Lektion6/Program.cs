@@ -25,19 +25,19 @@
             //Var och Dynamic
 
 
-            var age = 23 + " Robin " + 22.3;
-            var name = "Robin";
-            var isSuccess = true;
-            var decimalNumber = 22.3;
+            //var age = 23 + " Robin " + 22.3;
+            //var name = "Robin";
+            //var isSuccess = true;
+            //var decimalNumber = 22.3;
 
-            Console.WriteLine(age);
+            //Console.WriteLine(age);
 
 
-            dynamic streetNumber = 3;
-            streetNumber = "Hej";
-            streetNumber = true;
+            //dynamic streetNumber = 3;
+            //streetNumber = "Hej";
+            //streetNumber = true;
 
-            Console.WriteLine(streetNumber);
+            //Console.WriteLine(streetNumber);
 
 
 
