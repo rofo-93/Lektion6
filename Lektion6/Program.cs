@@ -68,5 +68,14 @@
 
             
         }
+
+
+        public static void GreetUser(string name)
+        {
+            Console.WriteLine($"Hej {name}");
+        }
+
+
+
     }
 }
